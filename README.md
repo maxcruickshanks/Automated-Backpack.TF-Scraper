@@ -1,4 +1,4 @@
-# Automated-Backpack.TF-Scraper
+# Automated Backpack.TF Scraper
 ## Description
 This project was intended to traverse [Backpack.TF](https://backpack.tf) classified listings for Unusual quality items in [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/) and find deals that would provide the user profit.
 ## Copyright
