@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="BackpackListing.cs" />
     <Compile Include="BackpackListingArrays.cs" />
+    <Compile Include="HTMLFile.cs" />
     <Compile Include="mainForm.cs">
       <SubType>Form</SubType>
     </Compile>
